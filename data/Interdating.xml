@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+       <titleStmt>
+          <title type= "main">Interdating</title>
+          <title type= "sub">The Negro point of view</title>
+          <title type="sub">Digital Edition</title>
+          <author><persName xml:id="Irene"><forename>Irene</forename><surname>Kirchner</surname></persName><orgName> African American History, Culture and Digital Humanities (AADHum)</orgName></author>
+        <respStmt>
+          <resp>Encoded by</resp><persName><forename>Irene</forename><surname>Kirchner</surname></persName>
+        </respStmt>
+       </titleStmt>
+       <publicationStmt>
+         <publisher><orgName>AADHum</orgName></publisher>
+         <pubPlace><settlement>College Park</settlement>, <region>Maryland</region></pubPlace>
+         <date when="2018-03-14">March 14, 2018</date>
+       </publicationStmt>
+       <sourceDesc>
+         <bibl>
+          <title type= "main">Interdating</title>
+          <title type= "sub">The Negro point of view</title>
+          <author>Hollace Goldberg</author>
+          <publisher>The Diamondback</publisher>
+          <pubPlace><settlement>College Park</settlement> <region>Maryland</region></pubPlace>
+          <date when="1967-01-13"> January 13, 1967</date>
+         </bibl>
+       </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+        <div>
+          <p>
+I am a boy, I am a girl. My<lb/>
+skin is a shade darker and my<lb/>
+hair a bit thicker than most<lb/>
+students. I play the dating game<lb/>
+differently too, I am a <trait type= "ethnicity"><desc>Negro</desc></trait><lb/>
+who has become integrated into<lb/>
+the fabric of the University, and<lb/>
+I stay aloof from all-<trait type= "ethnicity"><desc>Negro</desc></trait> social<lb/>
+cliques. People who share my<lb/>
+perspective often hold similar,<lb/>
+though not identical points of<lb/>
+view.<lb/>
+</p>
+
+<p>
+“I think <trait type= "ethnicity"><desc>white</desc></trait> girls are
+<choice><orig>de-<lb break="no"/>finitely</orig><reg>definitely</reg></choice>
+more friendly than <trait type= "ethnicity"><desc>white</desc></trait><lb/>
+boys,” related a pretty young<lb/>
+freshman. “I feel that <trait type= "ethnicity"><desc>white</desc></trait><lb/>
+girls are particularly friendly<lb/>
+with <trait type= "ethnicity"><desc>Negro</desc></trait> boys. There is such<lb/>
+a limited amount of <trait type= "ethnicity"><desc>Negro</desc></trait> boys<lb/>
+that this really gets on my<lb/>
+nerves.”<lb/>
+</p>
+
+<p>
+“That’s typical female
+<choice><orig>jeal-<lb break="no"/>ousy</orig><reg>jealousy</reg></choice>
+jeal­-<lb/>
+ousy,” laughed a <trait type= "ethnicity"><desc>Negro</desc></trait> boy,
+<choice><orig>hear-<lb break="no"/>ing</orig><reg>hearing</reg></choice>
+these comments. But the<lb/>
+attractive coed had more to say,<lb/>
+"If it was a fair interchange,<lb/>
+I might not mind,” she said,<lb/>
+“But <trait type= "ethnicity"><desc>white</desc></trait> boys show little
+<choice><orig>in-<lb break="no"/>terest</orig><reg>interest</reg></choice>
+in <trait type= "ethnicity"><desc>Negro</desc></trait> girls, I have<lb/>
+the distinct feeling,” she said,<lb/>
+“that when a <trait type= "ethnicity"><desc>white</desc></trait> boy sees an <lb/>
+attractive <trait type= "ethnicity"><desc>Negro</desc></trait> girl, it crosses<lb/>
+his mind that she is <trait type= "ethnicity"><desc>Negro</desc></trait> and<lb/>
+he then pays no further attention<lb/>
+to her.<lb/>
+</p>
+
+<p>
+“They must have some
+<choice><orig>particu-<lb break="no"/>lar</orig><reg>particular</reg></choice>
+impression that <trait type= "ethnicity"><desc>Negro</desc></trait> girls<lb/>
+are dirty and ignorant. I’ve<lb/>
+really tried to figure out the<lb/>
+mental processes involved
+<choice><orig>be-<lb break="no"/>cause</orig><reg>because</reg></choice>
+you can’t tell me that<lb/>
+<cb n= "1"/>
+
+
+boys won’t recognize a nice
+<choice><orig>look-<lb break="no"/>ing</orig><reg>looking</reg></choice>
+girl right away.”<lb/>
+</p>
+
+<p>
+On the other side of the dating<lb/>
+game is <persName><forename>Dave</forename></persName>, also a <trait type= "ethnicity"><desc>Negro</desc></trait>, He<lb/>
+notes that often <trait type= "ethnicity"><desc>white</desc></trait> girls
+<choice><orig>exer-<lb break="no"/>cise</orig><reg>exercise</reg></choice>
+a certain friendliness
+<choice><orig>to-<lb break="no"/>ward</orig><reg>toward</reg></choice>
+him, but he exercises some<lb/>
+caution in interdating.<lb/>
+</p>
+
+<p>
+“You can ask a girl out right<lb/>
+away--if you like getting shot<lb/>
+down!” he commented, “But most<lb/>
+of the time in your associations<lb/>
+you basically know who would<lb/>
+(go out with you) and who<lb/>
+wouldn’t,” he said. If a <trait type= "ethnicity"><desc>Negro</desc></trait><lb/>
+boy and a <trait type= "ethnicity"><desc>white</desc></trait> girl get to know<lb/>
+each other and build up an
+<choice><orig>ex-<lb break="no"/>change</orig><reg>exchange</reg></choice>
+“you ask her out then.”<lb/>
+</p>
+
+<p>
+Among the students
+<choice><orig>interview-<lb break="no"/>ed</orig><reg>interviewed</reg></choice>,
+boys have interdated more<lb/>
+frequently than girls. One coed<lb/>
+who has been asked out by <trait type= "ethnicity"><desc>white</desc></trait><lb/>
+boys has always “declined. I<lb/>
+might feel a little strange,” she<lb/>
+explained, “but the person I am<lb/>
+with might feel worse.”<lb/>
+</p>
+
+<p>
+"My father just wouldn’t
+<choice><orig>ap-<lb break="no"/>prove</orig><reg>approve</reg></choice>,"
+offered another coed,<lb/>
+“I am not going to say ‘No, I<lb/>
+never will interdate,’ If it comes<lb/>
+along, I might. But, . .I think<lb/>
+the chances are less for me<lb/>
+than for a <trait type= "ethnicity"><desc>Negro</desc></trait> boy.”<lb/>
+</p>
+
+<p>
+Most of these <trait type= "ethnicity"><desc>Negroes</desc></trait> have<lb/>
+definite views about the colored<lb/>
+students who sit together in the<lb/>
+Main Dining Hall and in the
+<choice><orig>Stu-<lb break="no"/>dent</orig><reg>Student</reg></choice>
+Union. “It’s sociological,”<lb/>
+explained one <trait type= "ethnicity"><desc>Negro</desc></trait>. “These<lb/>
+kids, for the most part, come<lb/>
+from schools where there were<lb/>
+90 per cent <trait type= "ethnicity"><desc>Negroes</desc></trait>. They have<lb/>
+never been in an integrated
+<choice><orig>en-<lb break="no"/>vironment</orig><reg>environment</reg></choice>
+and therefore remain<lb/>
+together here.”<lb/>
+</p>
+<cb n= "2"/>
+
+
+<p>
+“They're mostly commuters<lb/>
+(in the Union)," analyzed
+<choice><orig>an-<lb break="no"/>other</orig><reg>another</reg></choice>.
+“They just go to the Union<lb/>
+because there is really nothing<lb/>
+else for them to do in between<lb/>
+classes--except to study. You<lb/>
+can’t do that all the time, and<lb/>
+it is nice to relax in the Union,”<lb/>
+"To me, the Student Union<lb/>
+</p>
+
+<p>
+<trait type= "ethnicity"><desc>Negro</desc></trait> is the <trait type= "ethnicity"><desc>Negro</desc></trait> that
+<choice><orig>every-<lb break="no"/>body</orig><reg>everybody</reg></choice>
+expects to see,” asserted<lb/>
+a <trait type= "ethnicity"><desc>Negro</desc></trait> coed with much
+<choice><orig>resent-<lb break="no"/>ment</orig><reg>resentment</reg></choice>,
+“I don’t go to the Union,”<lb/>
+she continued. "I don’t care to<lb/>
+classify myself. I find it
+<choice><orig>posi-<lb break="no"/>tively</orig><reg>positively</reg></choice>
+revolting. All my people<lb/>
+are congregated in one section<lb/>
+playing pinochle, laughing and<lb/>
+talking.<lb/>
+</p>
+<cb n= "3"/>
+
+<p>
+"When I sit with the <trait type= "ethnicity"><desc>Negroes</desc></trait><lb/>
+in the dining hall," she added,<lb/>
+"they make me feel more like a<lb/>
+<trait type= "ethnicity"><desc>Negro</desc></trait> than <trait type= "ethnicity"><desc>white</desc></trait> people do."<lb/>
+</p>
+
+<p>
+A <trait type= "ethnicity"><desc>Negro</desc></trait> clique, she said,
+<choice><orig>im-<lb break="no"/>plies</orig><reg>implies</reg></choice>
+that «the <trait type= "ethnicity"><desc>white</desc></trait> world has<lb/>
+me down and I have to go hunt<lb/>
+up my people.”<lb/>
+</p>
+
+<p>
+"I picked the <orgName>University of<lb/>
+Maryland</orgName> as opposed to <trait type= "ethnicity"><desc>Negro</desc></trait><lb/>
+colleges in <placeName>Baltimore</placeName>. I still<lb/>
+have to live in a <trait type= "ethnicity"><desc>white</desc></trait> man’s<lb/>
+world, therefore I have to learn<lb/>
+to live with them. The only way<lb/>
+you can let people know that you<lb/>
+are like them is to associate<lb/>
+with them.”<lb/>
+</p>
+
+<p>
+<trait type= "ethnicity"><desc>Negro</desc></trait> students who spend their<lb/>
+<cb n= "4"/> </p>
+</div>
+<div>
+<head>Negro should 'learn to live' in white world</head>
+<p>
+time in the Union, however,
+<choice><orig>dis-<lb break="no"/>agree</orig><reg>disagree</reg></choice>
+with these viewpoints,<lb/>
+"These were my friends in
+<choice><orig>high-<lb break="no"/>school</orig><reg>highschool</reg></choice>,"
+professed one boy. «I<lb/>
+came to college and stayed with<lb/>
+them. It’s natural to stay with<lb/>
+people you know. Many <trait type= "ethnicity"><desc>white</desc></trait><lb/>
+students segregate themselves,<lb/>
+too, and only stay with people<lb/>
+they associated with prior to<lb/>
+college.”<lb/>
+</p>
+
+<p>
+The <trait type= "ethnicity"><desc>Negro</desc></trait> community on
+<choice><orig>cam-<lb break="no"/>pus</orig><reg>campus</reg></choice>
+is not homogeneous in ideas--<lb/>
+nor can the <trait type= "ethnicity"><desc>Negro</desc></trait> community<lb/>
+be considered an identifiable sub-­<lb/>
+group, some <trait type= "ethnicity"><desc>Negro</desc></trait> students<lb/>
+stay segregated. Others
+<choice><orig>inte-<lb break="no"/>grate</orig><reg>integrate</reg></choice>
+to varying degrees. Like<lb/>
+all individuals, each <trait type= "ethnicity"><desc>Negro</desc></trait> has<lb/>
+a distinct set of opinions. Even<lb/>
+<cb n= "5"/>
+
+
+college holds a different place<lb/>
+in each one’s scheme of values.<lb/>
+</p>
+
+<p>
+"I think college is a place<lb/>
+where you do a lot of learning,"<lb/>
+expressed one <trait type= "ethnicity"><desc>Negro</desc></trait>,- “All your<lb/>
+life you have been taught this and<lb/>
+that. Now your intellect begins<lb/>
+to take over ...You learn whether<lb/>
+it was all a big hoax,”<lb/>
+</p>
+
+<p>
+In this generation, he reflected,<lb/>
+there are many opportunities for<lb/>
+<cb n= "6"/>
+
+<trait type= "ethnicity"><desc>whites</desc></trait> and <trait type= "ethnicity"><desc>Negroes</desc></trait> to
+<choice><orig>interre-<lb break="no"/>late</orig><reg>interrelate</reg></choice>,
+many more opportunities<lb/>
+than "our parents” had.
+<choice><orig>Inter-<lb break="no"/>racial</orig><reg>Interracial</reg></choice>
+contact stimulates thought<lb/>
+and discussion.<lb/>
+</p>
+
+<p>
+"Sooner or later I hope
+<choice><orig>every-<lb break="no"/>body</orig><reg>everybody</reg></choice>
+will be one big happy family<lb/>
+—all mixed up. Things could<lb/>
+really swing,” one <trait type= "ethnicity"><desc>Negro</desc></trait>
+<choice><orig>sug-<lb break="no"/>gested</orig><reg>suggested</reg></choice>.
+“Or, then again, we<lb/>
+could have a recession.”<lb/>
+<cb n= "7"/>
+</p>
+         </div>
+      </body>
+  </text>
+</TEI>

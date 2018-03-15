@@ -1,8 +1,21 @@
 /* Add your own CSS rules here */
-#description {
+
+#description{
   margin: 0 0 1em 0;
 }
 
 tei-teiHeader {
   display: none;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  border: 10px;
+  border-color: black;
+}
+
+tei-trait {
+color: blue;
+font-weight: bold;
 }
