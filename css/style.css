@@ -10,7 +10,6 @@ tei-teiHeader {
 
 body {
   font-family: sans-serif;
-  text-align: center;
   border: 10px;
   border-color: black;
 }
